@@ -1,0 +1,28 @@
+{
+  "name": "act_internship_project",
+  "version": "1.0.0",
+  "description": "ACT Task-1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/App.js",
+    "dev": "nodemon src/App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datkumar/ACT_internship_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datkumar/ACT_internship_project/issues"
+  },
+  "homepage": "https://github.com/datkumar/ACT_internship_project#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
